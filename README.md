@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Red-Social-Vzla ..🎈
 
-First, run the development server:
+Descripción del Proyecto
+red social innovadora diseñada para conectar personas, compartir experiencias y descubrir contenido nuevo e interesante. Nuestra plataforma proporciona un espacio seguro y atractivo para interactuar con amigos, seguir a creadores de contenido y participar en comunidades de interés.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Descripción del Proyecto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ -  es una red social innovadora diseñada para conectar personas, compartir experiencias y descubrir contenido nuevo e interesante. Nuestra plataforma proporciona un espacio seguro y atractivo para interactuar con amigos, seguir a creadores de contenido y participar en comunidades de interés.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Feedback
 
-To learn more about Next.js, take a look at the following resources:
+"Conéctate con el mundo. Comparte tu mundo." SocialVzla.com. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🛠 Skills
+Tecnologías Utilizadas
+Frontend:
 
-## Deploy on Vercel
+React.js: Para la construcción de la interfaz de usuario dinámica y reactiva.
+Redux: Para la gestión del estado global de la aplicación.
+Tailwind CSS: Para el diseño estilizado y moderno.
+Backend:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Node.js: Para la creación del servidor y lógica de la aplicación.
+Express.js: Para la gestión de rutas y middleware.
+MongoDB: Como base de datos NoSQL para el almacenamiento de datos.
+Autenticación y Seguridad:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+JWT (JSON Web Tokens): Para la autenticación segura.
+BCrypt: Para el hash de contraseñas.
+Almacenamiento de Archivos:
+
+AWS S3: Para el almacenamiento y gestión de imágenes y videos.
+Notificaciones y Mensajería:
+
+Socket.io: Para la implementación de chat en tiempo real y notificaciones instantáneas.
+Despliegue:
+
+Docker: Para la creación de contenedores de la aplicación.
+Kubernetes: Para la orquestación de contenedores.
+CI/CD (Integración Continua/Despliegue Continuo): Utilizando GitHub Actions.
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+
+
+
+## Funcionalidades Principales
+
+Funcionalidades Principales
+Perfil de Usuario: Los usuarios pueden crear y personalizar sus perfiles, incluyendo foto de perfil, biografía y más.
+Timeline: Una línea de tiempo donde los usuarios pueden publicar, ver, y comentar en publicaciones de sus amigos y comunidades.
+Mensajería en Tiempo Real: Chat en tiempo real con amigos y grupos utilizando Socket.io.
+Notificaciones: Notificaciones en tiempo real para menciones, likes, comentarios, y nuevos seguidores.
+Explorar: Descubre contenido popular y nuevas cuentas a seguir basado en intereses.
+Seguridad y Privacidad: Controles de privacidad robustos para que los usuarios gestionen quién puede ver su contenido y conectarse con ellos.
+Soporte Multimedia: Soporte para fotos, videos, y transmisiones en vivo.
+Grupos y Eventos: Creación y gestión de grupos de interés y eventos para facilitar la interacción y organización.
+
