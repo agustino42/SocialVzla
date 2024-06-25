@@ -26,7 +26,7 @@ Backend:
 
 Node.js: Para la creación del servidor y lógica de la aplicación.
 Express.js: Para la gestión de rutas y middleware.
-MongoDB: Como base de datos NoSQL para el almacenamiento de datos.
+Supabase: Como base de datos OperSource para el almacenamiento de datos.
 Autenticación y Seguridad:
 
 JWT (JSON Web Tokens): Para la autenticación segura.
